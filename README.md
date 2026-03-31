@@ -24,3 +24,19 @@ This repository contains my Generative AI hands-on projects and exercises.
 
 \- Jupyter Notebook
 
+AI Router Project
+
+This repository contains my Generative AI router implementation.
+
+Contents
+router system: Classifies user queries into categories
+Technical
+Billing
+Sales
+Tool
+experts: Different system prompts for each category
+tool use: Mock function to fetch Bitcoin price
+Technologies Used
+Python
+OpenAI API
+
